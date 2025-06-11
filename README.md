@@ -131,10 +131,3 @@ O projeto utiliza TailwindCSS para estilização, com um design moderno e respon
 3. Commit suas mudanças (`git commit -m 'Adiciona nova feature'`)
 4. Push para a branch (`git push origin feature/nova-feature`)
 5. Abra um Pull Request
-
-## Suporte
-
-Para suporte, entre em contato através dos canais:
-- Email: [EMAIL]
-- Discord: [LINK_DO_DISCORD]
-- Issues do GitHub: [LINK_DO_REPOSITÓRIO]/issues 
